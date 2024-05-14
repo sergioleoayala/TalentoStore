@@ -94,7 +94,7 @@ const authStore = useAuthStore()
 }
 
 .logo:hover {
-    animation: tilt-n-move-shaking 0.25s infinite;
+    animation: tilt-n-move-shaking 0.30s infinite;
 }
 
 @keyframes tilt-n-move-shaking {
